@@ -1,15 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7b1610e-ea1d-44ab-8145-dabd9f6ebe03" name="Changes" comment="" />
+    <list default="true" id="d7b1610e-ea1d-44ab-8145-dabd9f6ebe03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodosDesafios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TodosDesafios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bibliotecagson/livro/Editora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bibliotecagson/livro/Editora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bibliotecagson/livro/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bibliotecagson/livro/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bibliotecagson/livro/testeLivro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bibliotecagson/livro/testeLivro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bibliotecagson/modelo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bibliotecagson/modelo/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bibliotecagson/modelo/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bibliotecagson/modelo/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/leituraeescritadearquivo/modelos/EntendoFileReaderWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/leituraeescritadearquivo/modelos/EntendoFileReaderWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/leituraeescritadearquivo/modelos/EscritaAquirvo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/leituraeescritadearquivo/modelos/EscritaAquirvo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/trycatch/github/ErroConsultaGitHubException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/trycatch/github/ErroConsultaGitHubException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/trycatch/github/consultaGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/trycatch/github/consultaGit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/trycatch/modelos/ExeciciosDivisao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/trycatch/modelos/ExeciciosDivisao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/trycatch/modelos/Senha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/trycatch/modelos/Senha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/trycatch/modelos/SenhaInvalidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/trycatch/modelos/SenhaInvalidaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vagner/AplicacaoDeCompra/Modelos/CartaoDeCredito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/AplicacaoDeCompra/Modelos/CartaoDeCredito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vagner/AplicacaoDeCompra/Modelos/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/AplicacaoDeCompra/Modelos/Compra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vagner/AplicacaoDeCompra/Modelos/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/AplicacaoDeCompra/Modelos/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vagner/ArrayLista/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/ArrayLista/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vagner/ArrayLista/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/ArrayLista/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vagner/todosDesafios/ArrayList/Listas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/todosDesafios/ArrayList/Listas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vagner/todosDesafios/Modelos/NumerosInteiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/todosDesafios/Modelos/NumerosInteiros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vagner/todosDesafios/Principal/TesteTitulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/todosDesafios/Principal/TesteTitulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vagner/todosDesafios/Titulo/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/todosDesafios/Titulo/Titulo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "VagnerSiqueiraDeSousa"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/VagnerSiqueiraDeSousa/TodosDesafios.git",
+    "accountId": "a72f5c39-76f3-497c-af56-bc607b51b0a2"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2llKuAKSXdjSzGQOiN6hBQn4Rdg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,10 +68,117 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConsultaGithub.executor": "Run",
+    "Application.EntendoFileReaderWriter.executor": "Run",
+    "Application.EscritaAquirvo.executor": "Run",
+    "Application.ExeciciosDivisao.executor": "Run",
+    "Application.Lista.executor": "Run",
+    "Application.Listas.executor": "Run",
+    "Application.Maindivisor.executor": "Run",
+    "Application.NumerosInteiros.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.Senha.executor": "Run",
+    "Application.TesteTitulo.executor": "Run",
+    "Application.consultaGit.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.testeLivro.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.trycatch.github" />
+      <recent name="br.com.trycatch.modelos" />
+      <recent name="com.vagner.AplicacaoDeCompra.Modelos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EscritaAquirvo">
+    <configuration name="ConsultaGithub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.trycatch.modelos.ConsultaGithub" />
+      <module name="TodosDesafios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.trycatch.modelos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntendoFileReaderWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.leituraeescritadearquivo.modelos.EntendoFileReaderWriter" />
+      <module name="TodosDesafios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.leituraeescritadearquivo.modelos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EscritaAquirvo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.leituraeescritadearquivo.modelos.EscritaAquirvo" />
+      <module name="TodosDesafios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.leituraeescritadearquivo.modelos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Senha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.trycatch.modelos.Senha" />
+      <module name="TodosDesafios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.trycatch.modelos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="consultaGit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.trycatch.github.consultaGit" />
+      <module name="TodosDesafios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.trycatch.github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EscritaAquirvo" />
+        <item itemvalue="Application.EntendoFileReaderWriter" />
+        <item itemvalue="Application.consultaGit" />
+        <item itemvalue="Application.ConsultaGithub" />
+        <item itemvalue="Application.Senha" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +189,16 @@
       <updated>1725749445626</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

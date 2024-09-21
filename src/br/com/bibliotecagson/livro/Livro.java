@@ -1,6 +1,4 @@
-package teste;
-
-import br.com.bibliotecagson.livro.Editora;
+package br.com.bibliotecagson.livro;
 
 public record Livro(String titulo, String autor, Editora editora) {
 }
