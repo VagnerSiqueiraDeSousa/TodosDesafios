@@ -5,29 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7b1610e-ea1d-44ab-8145-dabd9f6ebe03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/leituraeescritadearquivo/modelos/LeituraDeArquivo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodosDesafios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TodosDesafios.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/bibliotecagson/livro/Editora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bibliotecagson/livro/Editora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/bibliotecagson/livro/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bibliotecagson/livro/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/bibliotecagson/livro/testeLivro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bibliotecagson/livro/testeLivro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/bibliotecagson/modelo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bibliotecagson/modelo/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/bibliotecagson/modelo/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bibliotecagson/modelo/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/leituraeescritadearquivo/modelos/EntendoFileReaderWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/leituraeescritadearquivo/modelos/EntendoFileReaderWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/leituraeescritadearquivo/modelos/EscritaAquirvo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/leituraeescritadearquivo/modelos/EscritaAquirvo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/trycatch/github/ErroConsultaGitHubException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/trycatch/github/ErroConsultaGitHubException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/trycatch/github/consultaGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/trycatch/github/consultaGit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/trycatch/modelos/ExeciciosDivisao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/trycatch/modelos/ExeciciosDivisao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/trycatch/modelos/Senha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/trycatch/modelos/Senha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/trycatch/modelos/SenhaInvalidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/trycatch/modelos/SenhaInvalidaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vagner/AplicacaoDeCompra/Modelos/CartaoDeCredito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/AplicacaoDeCompra/Modelos/CartaoDeCredito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vagner/AplicacaoDeCompra/Modelos/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/AplicacaoDeCompra/Modelos/Compra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vagner/AplicacaoDeCompra/Modelos/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/AplicacaoDeCompra/Modelos/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vagner/ArrayLista/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/ArrayLista/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vagner/ArrayLista/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/ArrayLista/Lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vagner/todosDesafios/ArrayList/Listas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/todosDesafios/ArrayList/Listas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vagner/todosDesafios/Modelos/NumerosInteiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/todosDesafios/Modelos/NumerosInteiros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vagner/todosDesafios/Principal/TesteTitulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/todosDesafios/Principal/TesteTitulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vagner/todosDesafios/Titulo/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vagner/todosDesafios/Titulo/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "VagnerSiqueiraDeSousa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VagnerSiqueiraDeSousa&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/VagnerSiqueiraDeSousa/TodosDesafios.git",
-    "accountId": "a72f5c39-76f3-497c-af56-bc607b51b0a2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VagnerSiqueiraDeSousa/TodosDesafios.git&quot;,
+    &quot;accountId&quot;: &quot;a72f5c39-76f3-497c-af56-bc607b51b0a2&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -72,6 +51,7 @@
     "Application.EntendoFileReaderWriter.executor": "Run",
     "Application.EscritaAquirvo.executor": "Run",
     "Application.ExeciciosDivisao.executor": "Run",
+    "Application.LeituraDeArquivo.executor": "Run",
     "Application.Lista.executor": "Run",
     "Application.Listas.executor": "Run",
     "Application.Maindivisor.executor": "Run",
@@ -88,7 +68,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "criando-um-repositorio-de-estudos",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
@@ -103,7 +83,7 @@
       <recent name="com.vagner.AplicacaoDeCompra.Modelos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EscritaAquirvo">
+  <component name="RunManager" selected="Application.LeituraDeArquivo">
     <configuration name="ConsultaGithub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.trycatch.modelos.ConsultaGithub" />
       <module name="TodosDesafios" />
@@ -143,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Senha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.trycatch.modelos.Senha" />
+    <configuration name="LeituraDeArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.leituraeescritadearquivo.modelos.LeituraDeArquivo" />
       <module name="TodosDesafios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.trycatch.modelos.*" />
+          <option name="PATTERN" value="br.com.leituraeescritadearquivo.modelos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeituraDeArquivo" />
         <item itemvalue="Application.EscritaAquirvo" />
         <item itemvalue="Application.EntendoFileReaderWriter" />
         <item itemvalue="Application.consultaGit" />
         <item itemvalue="Application.ConsultaGithub" />
-        <item itemvalue="Application.Senha" />
       </list>
     </recent_temporary>
   </component>
