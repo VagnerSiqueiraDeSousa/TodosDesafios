@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7b1610e-ea1d-44ab-8145-dabd9f6ebe03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/leituraeescritadearquivo/modelos/LeituraDeArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/leituraeescritadearquivo/desafio/DesafioEscritaArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buscafilme/excecao/ErroDeConversaoDeAnoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buscafilme/modelos/Titulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buscafilme/modelos/TituloOmdb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buscafilme/modelos/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +40,9 @@
     &quot;accountId&quot;: &quot;a72f5c39-76f3-497c-af56-bc607b51b0a2&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -48,9 +55,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConsultaGithub.executor": "Run",
+    "Application.DesafioEscritaArquivo.executor": "Run",
     "Application.EntendoFileReaderWriter.executor": "Run",
     "Application.EscritaAquirvo.executor": "Run",
     "Application.ExeciciosDivisao.executor": "Run",
+    "Application.ExemploArquivo.executor": "Run",
     "Application.LeituraDeArquivo.executor": "Run",
     "Application.Lista.executor": "Run",
     "Application.Listas.executor": "Run",
@@ -68,7 +77,8 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "criando-um-repositorio-de-estudos",
+    "git-widget-placeholder": "Scanner-para-leitura-de-aquivos",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
@@ -82,27 +92,17 @@
       <recent name="br.com.trycatch.modelos" />
       <recent name="com.vagner.AplicacaoDeCompra.Modelos" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="buscafilme.excecao" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.LeituraDeArquivo">
-    <configuration name="ConsultaGithub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.trycatch.modelos.ConsultaGithub" />
+  <component name="RunManager" selected="Application.main">
+    <configuration name="DesafioEscritaArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="buscafilme.modelos.DesafioEscritaArquivo" />
       <module name="TodosDesafios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.trycatch.modelos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EntendoFileReaderWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.leituraeescritadearquivo.modelos.EntendoFileReaderWriter" />
-      <module name="TodosDesafios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.leituraeescritadearquivo.modelos.*" />
+          <option name="PATTERN" value="buscafilme.modelos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,7 +115,20 @@
       <module name="TodosDesafios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.leituraeescritadearquivo.modelos.*" />
+          <option name="PATTERN" value="buscafilme.modelos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.leituraeescritadearquivo.modelos.ExemploArquivo" />
+      <module name="TodosDesafios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="buscafilme.modelos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,7 +141,7 @@
       <module name="TodosDesafios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.leituraeescritadearquivo.modelos.*" />
+          <option name="PATTERN" value="buscafilme.modelos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="consultaGit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.trycatch.github.consultaGit" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="buscafilme.modelos.main" />
       <module name="TodosDesafios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.trycatch.github.*" />
+          <option name="PATTERN" value="buscafilme.modelos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.DesafioEscritaArquivo" />
+        <item itemvalue="Application.ExemploArquivo" />
         <item itemvalue="Application.LeituraDeArquivo" />
         <item itemvalue="Application.EscritaAquirvo" />
-        <item itemvalue="Application.EntendoFileReaderWriter" />
-        <item itemvalue="Application.consultaGit" />
-        <item itemvalue="Application.ConsultaGithub" />
       </list>
     </recent_temporary>
   </component>
