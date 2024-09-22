@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7b1610e-ea1d-44ab-8145-dabd9f6ebe03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/concessionaria/modelos/Veiculos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/concessionaria/modelos/mainVeiculos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/desafioApiViaCep/modelos/BuscaCep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/desafioApiViaCep/modelos/MainBuscaCep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/desafioApiViaCep/resolucao/ConsultaCep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/desafioApiViaCep/resolucao/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/desafioApiViaCep/resolucao/GeradorDeArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/desafioApiViaCep/resolucao/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +64,7 @@
     "Application.LeituraDeArquivo.executor": "Run",
     "Application.Lista.executor": "Run",
     "Application.Listas.executor": "Run",
+    "Application.MainBuscaCep.executor": "Run",
     "Application.Maindivisor.executor": "Run",
     "Application.NumerosInteiros.executor": "Run",
     "Application.Principal.executor": "Run",
@@ -75,7 +80,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Desafio__Serializar__objeto__para__Json",
+    "git-widget-placeholder": "SerializaçãoDeObjetoParaJson",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Libraries",
@@ -94,7 +99,7 @@
       <recent name="buscafilme.excecao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.mainVeiculos">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="DesafioEscritaArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="buscafilme.modelos.DesafioEscritaArquivo" />
       <module name="TodosDesafios" />
@@ -108,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.leituraeescritadearquivo.modelos.ExemploArquivo" />
+    <configuration name="MainBuscaCep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.desafioApiViaCep.modelos.MainBuscaCep" />
       <module name="TodosDesafios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="buscafilme.modelos.*" />
+          <option name="PATTERN" value="br.com.desafioApiViaCep.modelos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeituraDeArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.leituraeescritadearquivo.modelos.LeituraDeArquivo" />
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.desafioApiViaCep.resolucao.Principal" />
       <module name="TodosDesafios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="buscafilme.modelos.*" />
+          <option name="PATTERN" value="br.com.desafioApiViaCep.resolucao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.MainBuscaCep" />
         <item itemvalue="Application.mainVeiculos" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.DesafioEscritaArquivo" />
-        <item itemvalue="Application.ExemploArquivo" />
-        <item itemvalue="Application.LeituraDeArquivo" />
       </list>
     </recent_temporary>
   </component>
@@ -191,5 +196,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/com/desafioApiViaCep/resolucao/ConsultaCep.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
