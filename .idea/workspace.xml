@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7b1610e-ea1d-44ab-8145-dabd9f6ebe03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/leituraeescritadearquivo/desafio/DesafioEscritaArquivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/buscafilme/excecao/ErroDeConversaoDeAnoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/buscafilme/modelos/Titulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/buscafilme/modelos/TituloOmdb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/buscafilme/modelos/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/concessionaria/modelos/Veiculos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/concessionaria/modelos/mainVeiculos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +67,7 @@
     "Application.TesteTitulo.executor": "Run",
     "Application.consultaGit.executor": "Run",
     "Application.main.executor": "Run",
+    "Application.mainVeiculos.executor": "Run",
     "Application.testeLivro.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
     "Repository.Attach.Annotations": "false",
@@ -77,7 +75,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Scanner-para-leitura-de-aquivos",
+    "git-widget-placeholder": "Desafio__Serializar__objeto__para__Json",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Libraries",
@@ -96,22 +94,9 @@
       <recent name="buscafilme.excecao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.mainVeiculos">
     <configuration name="DesafioEscritaArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="buscafilme.modelos.DesafioEscritaArquivo" />
-      <module name="TodosDesafios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="buscafilme.modelos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EscritaAquirvo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.leituraeescritadearquivo.modelos.EscritaAquirvo" />
       <module name="TodosDesafios" />
       <extension name="coverage">
         <pattern>
@@ -162,13 +147,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mainVeiculos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.concessionaria.modelos.mainVeiculos" />
+      <module name="TodosDesafios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.concessionaria.modelos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mainVeiculos" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.DesafioEscritaArquivo" />
         <item itemvalue="Application.ExemploArquivo" />
         <item itemvalue="Application.LeituraDeArquivo" />
-        <item itemvalue="Application.EscritaAquirvo" />
       </list>
     </recent_temporary>
   </component>
